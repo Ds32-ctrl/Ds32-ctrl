@@ -1,10 +1,10 @@
-# 👨‍💻 Daniel Steeven Carrillo Manosalva
+# Daniel Steeven Carrillo Manosalva
 
 **Systems Engineering Student | Software Development Trainee at SENA | Tech Enthusiast**
 
 ---
 
-### 👋 About Me
+### About Me
 
 Hi, I'm Daniel Steeven Carrillo Manosalva, a Systems Engineering student and Software Development trainee at SENA (Colombia).  
 I'm passionate about creating useful, meaningful, and socially driven tech solutions.  
@@ -12,7 +12,7 @@ Here on GitHub, I'm building my learning journey while sharing real projects, to
 
 ---
 
-### 🧠 Skills & Tools
+### Skills & Tools
 
 - **Programming Languages**: Python, JavaScript, Java (basic), VBA
 - **Web Development**: HTML, CSS, React (learning), Node.js (in progress)
@@ -26,7 +26,7 @@ Here on GitHub, I'm building my learning journey while sharing real projects, to
 
 ---
 
-### 🎯 Goals on GitHub
+### Goals on GitHub
 
 - Share my progress in software development with transparency and purpose  
 - Contribute to open-source projects focused on education, productivity, and automation  
@@ -35,7 +35,7 @@ Here on GitHub, I'm building my learning journey while sharing real projects, to
 
 ---
 
-### 🚀 Currently Learning
+### Currently Learning
 
 - Object-Oriented Programming (OOP)  
 - Data Structures & Algorithms  
@@ -44,7 +44,7 @@ Here on GitHub, I'm building my learning journey while sharing real projects, to
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 Feel free to reach out for collaboration, advice, or just to share ideas!  
 I'm always open to learning with others and building meaningful things together.
