@@ -16,8 +16,8 @@ Here on GitHub, I'm building my learning journey while sharing real projects, to
 
 - **Programming Languages**: Python, JavaScript, Java (basic), VBA
 - **Web Development**: HTML, CSS, React (learning), Node.js (in progress)
-- **Databases**: MySQL, SQLite
-- **Software Tools**: Git, GitHub, Excel (advanced), Visual Studio Code, Figma
+- **Databases**: MySQL, PostgreSQL
+- **Software Tools**: Git, GitHub, Excel (advanced), Visual Studio Code
 - **Other Skills**:
   - Requirement Analysis & Documentation
   - Office Automation & Productivity with Excel + VBA
